@@ -1,4 +1,6 @@
 # S3-Url-Determinizer
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Ramshackle-Jamathon/s3-url-determinizer.svg)](https://greenkeeper.io/)
 remember when you used to treat all s3 urls the same? this lets you return to the safety of not fretting about [all the different ways of refrencing an s3 object](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html#access-bucket-intro)
 
 in-path style: https://s3-aws-region.amazonaws.com/bucket
