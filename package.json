@@ -1,7 +1,7 @@
 {
   "name": "s3-url-determinizer",
   "description": "pass in various valid s3 object urls and get a single format out",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "github.com:Ramshackle-Jamathon/s3-url-determinizer.git",
   "author": "Joseph Van Drunen <josephvandrunen@gmail.com>",
   "keywords": [
