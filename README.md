@@ -3,7 +3,7 @@ remember when you tried to treat all S3 urls the same?
 
 [in-path style: https://s3-aws-region.amazonaws.com/bucket](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html#access-bucket-intro)
 
-[virtual-hosted style: https://s3-aws-region.amazonaws.com/bucket](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html#access-bucket-intro)
+[virtual-hosted style: http://bucket.s3-aws-region.amazonaws.com](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html#access-bucket-intro)
 
 ## Installation
 
